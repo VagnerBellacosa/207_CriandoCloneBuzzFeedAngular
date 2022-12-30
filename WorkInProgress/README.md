@@ -34,7 +34,14 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[O que vamos construir](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/9b53d394-6442-4a79-b617-1e8c0b4738e8)[Criando a estrutura base](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/d15d02e6-4e35-42a0-84ea-939ced02b860)[Criando a estilização do projeto](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/b358ba30-bcd8-4e11-a49a-ab5f8edb8592)[Criando as propriedades lógicas](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/d230b3cc-048a-4a78-b291-c5b03412455f)[Criando as regras do jogo](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/ef261f99-3c93-4652-a9bf-03c99e2b21c4)[Calculando o Resultado](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/ce0d3dd7-495f-4e11-9cdb-361f4edea05e)[Dicas para tornar um projeto clickbait no seu portfolio](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/fe06430b-a360-4509-be61-8e8d328057f0)[Entendendo o desafio](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/6af1e309-4bef-497b-8cb2-a2f8ae95b353)
+- [O que vamos construir](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/9b53d394-6442-4a79-b617-1e8c0b4738e8)
+- [Criando a estrutura base](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/d15d02e6-4e35-42a0-84ea-939ced02b860)
+- [Criando a estilização do projeto](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/b358ba30-bcd8-4e11-a49a-ab5f8edb8592)
+- [Criando as propriedades lógicas](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/d230b3cc-048a-4a78-b291-c5b03412455f)
+- [Criando as regras do jogo](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/ef261f99-3c93-4652-a9bf-03c99e2b21c4)
+- [Calculando o Resultado](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/ce0d3dd7-495f-4e11-9cdb-361f4edea05e)
+- [Dicas para tornar um projeto clickbait no seu portfolio](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/fe06430b-a360-4509-be61-8e8d328057f0)
+- [Entendendo o desafio](https://web.dio.me/lab/criando-um-clone-do-buzzfeed/learning/6af1e309-4bef-497b-8cb2-a2f8ae95b353)
 
 
 
